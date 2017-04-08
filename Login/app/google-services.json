@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "804962294225",
+    "firebase_url": "https://login-d5607.firebaseio.com",
+    "project_id": "login-d5607",
+    "storage_bucket": "login-d5607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804962294225:android:5d12538430d26853",
+        "android_client_info": {
+          "package_name": "com.example.vishal.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804962294225-am60ed4eb3kapk09gl7sud18rtm7jdtt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vishal.login",
+            "certificate_hash": "faafce54d6f4ff251e482810c8e2463bd767beb6"
+          }
+        },
+        {
+          "client_id": "804962294225-0e6au8aq5ivdbufpm8t57o1clf630s3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACrh3G1DgLxNcmOgEoZvvyvM0a2wZDods"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804962294225-0e6au8aq5ivdbufpm8t57o1clf630s3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
